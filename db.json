@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Abubakr",
+      "age": "20",
+      "email": "abubakr@gmail.com",
+      "phone": "1985314",
+      "job": "Waiter",
+      "id": 14
+    },
+    {
+      "name": "Amin",
+      "age": "22",
+      "email": "amin@gmail.com",
+      "phone": "917209915",
+      "job": "Builder",
+      "id": 15
+    },
+    {
+      "name": "Rustam",
+      "age": "16",
+      "email": "rustam@gmail.com",
+      "phone": "938722727",
+      "job": "Designer",
+      "id": 16
+    },
+    {
+      "name": "Somon",
+      "age": "17",
+      "email": "somon@gmail.com",
+      "phone": "917209915",
+      "job": "Programmer",
+      "id": 17
+    }
+  ]
+}
